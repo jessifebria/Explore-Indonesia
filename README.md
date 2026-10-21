@@ -2,24 +2,15 @@
 
 **Wisata Nusantara** is a small Indonesian travel guide for iPhone, built to show what accessible apps look like and what inaccessible ones feel like.
 
-This project was created for the **Singapore Inclusive Design 2026** workshop. It's a live demo app: one switch turns the whole app from an accessible version into one that has the bugs many apps still ship with, so you can try each bug yourself and then see the fix.
+This project was created for the **[Singapore Inclusive Design Week 2026](https://una.tech.gov.sg/articles/inclusive-design-week-2026/)** workshop. It's a live demo app: one switch turns the whole app from an accessible version into one that has the bugs many apps still ship with, so you can try each bug yourself and then see the fix.
 
 ---
 
 ## ✨ The idea: one switch, two apps
 
-Open **Settings** and flip **Accessibility Fix**:
-
-| Fix **ON** (default) | Fix **OFF** |
-|---|---|
-| The accessible version of the app. | The same app, with the same look, but with accessibility bugs added on purpose. |
-| VoiceOver reads *"Price level: 2 out of 3"*. | VoiceOver reads *"R P, R P, R P"*. |
-| Text grows and wraps at large sizes. | Text is cut off at large sizes. |
-| Follows Dark Mode. | Stays bright white in Dark Mode. |
+Open **Settings** and flip **Accessibility Fix**
 
 The change takes effect right away. You don't need to relaunch the app.
-
-> The Settings screen works fully in **both** modes, so a VoiceOver or Voice Control user can always find the switch and turn the fix back on.
 
 ---
 
@@ -38,22 +29,6 @@ Each fix maps to one of Apple's [Accessibility Nutrition Labels](https://develop
 | **Reduced Motion** | The photo carousel always slides on its own. | The carousel stays still when Reduce Motion is on. |
 
 ---
-
-## 🔍 Finding the fixes in the code
-
-Every place where the two versions differ is marked with a comment that names the Nutrition Label:
-
-```swift
-// A11Y FIX: VoiceOver – read as one sentence, "Price level: 2 out of 3"
-```
-
-To list them all:
-
-```bash
-grep -rn "A11Y FIX" "Explore Indonesia"
-```
-
-Each fix is kept small, on purpose, so it's easy to show on screen during a talk.
 
 ### How it works
 
@@ -106,4 +81,4 @@ Explore Indonesia/
 
 ## 💙 About
 
-Made by **Jessi Febria** for the **Singapore Inclusive Design 2026** workshop, to help designers and developers *feel* the difference accessibility makes. This project was made together with AI & the skills from https://github.com/twostraws/Swift-Agent-Skills#accessibility-skills
+Made by **Jessi Febria** for the **[Singapore Inclusive Design 2026](https://una.tech.gov.sg/articles/inclusive-design-week-2026/)** workshop, to help designers and developers *feel* the difference accessibility makes. This project was made together with AI & the skills from this [open-source repo](https://github.com/twostraws/Swift-Agent-Skills#accessibility-skills)
