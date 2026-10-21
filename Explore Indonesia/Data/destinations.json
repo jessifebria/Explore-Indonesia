@@ -1,0 +1,430 @@
+{
+  "featuredId": "rajaampat",
+  "destinations": [
+    {
+      "id": "rajaampat",
+      "name": "Raja Ampat",
+      "region": "West Papua",
+      "category": "Beach",
+      "budget": 3,
+      "goodMonths": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4
+      ],
+      "photos": [
+          {
+            "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQSV7aHGwXh1jHiMUzzfX0sqXcitGPx95wwkM4WI0rTbOhV07D_ur2UZPrAkdA4QsKTuAdeoTVgeGDiHO4",
+            "altText": "View from Piaynemo lookout over a cluster of green karst islets in clear blue sea"
+          },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQUD9fNB2mtVHDJvsGQAeIpMn2TfSKBOd6wcOg9aOkMLsPNrNuvvskero-gLBiwT5DAvniGBmnarmD7BJc",
+          "altText": "Small green limestone karst islands scattered across bright turquoise waters at Wayag, Raja Ampat"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQYDdZpRDaVKkW6k1uYOZ4X9dEx0ykoNvMGoBO-Rlo-gua9CKuOz4tgL6PMWSnhuPE4-MXquqvavpScw2c",
+          "altText": "Over-under view of vibrant coral reef under shallow clear water with limestone karst islands in the background"
+        }
+      ],
+      "tagline": "Hundreds of tiny islands in turquoise sea",
+      "about": "Raja Ampat, which means \"Four Kings\", is an archipelago of more than 1,500 small islands off the north-west tip of West Papua. It sits in the heart of the Coral Triangle and has some of the richest marine life on Earth, with over 500 species of coral and more than 1,500 species of reef fish. Most visitors come to snorkel or dive among manta rays, reef sharks and turtles, often right off the jetty of their homestay. On land, the limestone karst islands of Piaynemo and Wayag give the famous postcard view after a short climb. Local Papuan villages run many of the homestays, and the marine park fee helps protect the reefs.",
+      "gettingThere": "Fly to Domine Eduard Osok Airport in Sorong, usually via Jakarta, Makassar or Manado. From Sorong harbour, take the public ferry to Waisai (about 2 hours), then a speedboat arranged by your homestay to the outer islands.",
+      "prepare": [
+        "Pay the Raja Ampat marine park entry permit in Sorong or Waisai",
+        "Bring cash in rupiah – there are few ATMs outside Waisai",
+        "Reef-safe sunscreen, a rash guard and your own snorkel mask",
+        "Seasickness tablets for the speedboat crossings",
+        "A dry bag for phones and cameras on the boat",
+        "Expect little or no mobile signal on the outer islands"
+      ]
+    },
+    {
+      "id": "borobudur",
+      "name": "Borobudur",
+      "region": "Central Java",
+      "category": "Culture",
+      "budget": 1,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQtzHBbKDuLNOlNsqZRrMA9-_gyS0ibfG6FfXLZpgcI0mQ218J1l3PrQ_y0pjSh2fE-xmV0HESmGzQ30hg",
+          "altText": "Early morning sun shining through stone bell stupas on the top platform of Borobudur Temple"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQz6PlxgxV3u-RjEpddPHtUvDl3XZdmuLiJK5gl_RZSQ9NhinLtR4ccEH-PF_ZYyxYp27spwZYL6MphnEo",
+          "altText": "Intricate 9th-century Buddhist stone relief panel carving along the gallery wall of Borobudur"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQfPGgeTYZ_5yPQV2OftsKkLuL_WIoQbLyQAMbupDkHiV4QM21E0Uh_CoGVBa71ayoU-PT84ro0Em_g1Dk",
+          "altText": "Silhouette of Borobudur temple rising above morning mist and surrounding forest canopy"
+        }
+      ],
+      "tagline": "The world's largest Buddhist temple",
+      "about": "Borobudur is a 9th-century Mahayana Buddhist temple built from about two million blocks of volcanic stone. Its nine stacked platforms are topped by a central dome and 72 bell-shaped stupas, each holding a seated Buddha statue. Walking clockwise up the galleries, pilgrims pass more than 2,600 relief panels that tell stories of daily life and the teachings of the Buddha. The temple was hidden under volcanic ash and jungle for centuries before being restored in the 20th century. Today it is a UNESCO World Heritage Site and the centre of Vesak celebrations each year.",
+      "gettingThere": "Fly to Yogyakarta International Airport, then drive about 1 hour north-west to Magelang. Buses and tour vans leave Yogyakarta city every morning.",
+      "prepare": [
+        "Book a timed ticket online – access to the upper terraces is limited per day",
+        "Wear clothes that cover your shoulders and knees",
+        "Special sandals are provided for climbing the temple to protect the stone",
+        "Arrive early for the sunrise and cooler temperatures",
+        "Bring water and a hat for the open terraces"
+      ]
+    },
+    {
+      "id": "bromo",
+      "name": "Mount Bromo",
+      "region": "East Java",
+      "category": "Mountain",
+      "budget": 1,
+      "goodMonths": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "photos": [
+          {
+            "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRXzBXYC86yOyIIvScHy0Dmf2sCusilW_2UWs7AGX-PJ7yJSVFxlvok6FOQPg7gm-MO2pWbRv15rlSQ67Q",
+            "altText": "4x4 tour jeeps and visitors gathered on the dusty plain of the Sea of Sand near Mount Bromo"
+          },
+          {
+            "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRe1qYB-YTt5IqtFWi3FEXWUJwTdvIkYAB9J8HejkS0xWL_wB2ZiAcxU00m2EqiUVo7vPabQic_ke0hzjM",
+            "altText": "Visitors climbing the steep concrete stairway on the grey volcanic slope leading up to Bromo's crater rim"
+          },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTIXOtvCiSH0i0BdUddWYF0Zg7xVCGEaqdZ3qe0lZAXBUhl7fZ6bu3LcPbCcsVR4OtneALgd79mCLORLNc",
+          "altText": "Smoking volcanic crater of Mount Bromo rising from the vast Tengger Sea of Sand caldera at sunrise"
+        }
+      ],
+      "tagline": "An active volcano rising from a sea of sand",
+      "about": "Mount Bromo is an active volcano inside the vast Tengger caldera, part of Bromo Tengger Semeru National Park. The caldera floor is a plain of fine volcanic sand known as the Sea of Sand, crossed by jeeps and horses. Most visitors leave around 3 a.m. to watch the sunrise from Mount Penanjakan, with Bromo smoking in the foreground and Mount Semeru behind it. After sunrise you can cross the sand and climb about 250 steps to the crater rim. The Tenggerese people living around the volcano hold the Yadnya Kasada ceremony here every year.",
+      "gettingThere": "Take a train or fly to Surabaya or Malang, then drive about 3 hours to the village of Cemoro Lawang on the crater rim. Sunrise jeep tours start from there.",
+      "prepare": [
+        "A warm jacket, hat and gloves – it can be near freezing before sunrise",
+        "A face mask or buff against volcanic dust",
+        "A torch for the early-morning walk",
+        "Pay the national park entry fee at the gate",
+        "Check the volcano alert level before you go"
+      ]
+    },
+    {
+      "id": "labuanbajo",
+      "name": "Labuan Bajo",
+      "region": "East Nusa Tenggara",
+      "category": "Beach",
+      "budget": 2,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQl_w0MNr_GaOrAyXNYF8Se21a-wyugluyQEIXaC4j9E0Zx6Di5WSVobj7EnZg2LyZSycQi3mC_f5L6YnY",
+          "altText": "Traditional wooden phinisi and tour boats anchored in Labuan Bajo harbour during a warm sunset"
+        },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRO0s-OnlCVasbg3QqOrM8Mc55jdY_4E6AW0JmihvruOZzo0RymihssPSx4YXYCn5tlXonr8o-xPM7MDtY",
+          "altText": "High aerial view from Padar Island summit overlooking its iconic triple curved bays and turquoise water"
+        },
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTCBsz-ki2jGw83pujjXhv06uisGpkLPQ3uQJqkth5mSnb9R9XDU_sR4gLHrBZzOxeI2ny_JT1NoLwFJvo",
+          "altText": "Close-up of a large Komodo dragon resting on dry ground in Komodo National Park"
+        }
+      ],
+      "tagline": "Gateway to Komodo National Park",
+      "about": "Labuan Bajo is a fishing town on the western tip of Flores and the starting point for trips into Komodo National Park. From its harbour, wooden phinisi boats sail to Komodo and Rinca islands, home of the Komodo dragon, the largest lizard in the world. Rangers lead short walks to see the dragons safely. The park also has some of Indonesia's best diving, a pink sand beach coloured by red coral, and the viewpoint at Padar Island. Many visitors spend one to three nights on a liveaboard boat.",
+      "gettingThere": "Fly direct from Jakarta or Bali to Komodo Airport in Labuan Bajo. The harbour is a 10-minute drive from the airport.",
+      "prepare": [
+        "Book a licensed boat operator and a park ranger for dragon treks",
+        "Bring cash for the national park and ranger fees",
+        "Comfortable shoes for the Padar Island hike",
+        "Sun protection – there is very little shade",
+        "Motion sickness tablets for overnight boat trips"
+      ]
+    },
+    {
+      "id": "toba",
+      "name": "Danau Toba",
+      "region": "North Sumatra",
+      "category": "Nature",
+      "budget": 3,
+      "goodMonths": [
+        6,
+        7,
+        8
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRkrLZz4K-Uo_gwfTkfQdji-9wC7SMd8tTZ11SLCOlqcA2Qx2LWb5rZzjml5FdQYLG2u94Qw-Z-wEy4-Lg",
+          "altText": "High aerial panorama over Lake Toba showing Samosir Island and surrounding green volcanic caldera cliffs"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRkD-KLfb9xRl2_yp232g_otRKipkb701jSBIut1PqcKO1bhBt5Ow1g5iofCE3XnAMuPaHlCFNPR8_W-8A",
+          "altText": "Traditional wooden Batak house with a towering boat-shaped roof in Ambarita village, Samosir Island"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRkrLZz4K-Uo_gwfTkfQdji-9wC7SMd8tTZ11SLCOlqcA2Qx2LWb5rZzjml5FdQYLG2u94Qw-Z-wEy4-Lg",
+          "altText": "Wide perspective of Lake Toba's deep blue expanse surrounded by lush mountain ridges"
+        }
+      ],
+      "tagline": "A huge volcanic lake with an island in the middle",
+      "about": "Lake Toba fills the caldera of a supervolcano that erupted about 74,000 years ago, making it the largest volcanic lake in the world. In the middle sits Samosir Island, about the size of Singapore, home to the Toba Batak people. Visitors stay in lakeside guesthouses in Tuktuk, swim in the cool water, and visit stone chairs, royal tombs and traditional houses with boat-shaped roofs. Batak music and dance performances are held in several villages. The cooler highland air makes it a relaxing break from the heat of Medan.",
+      "gettingThere": "Fly to Silangit Airport near Siborong-borong, then drive about 1 hour to Parapat and take the ferry to Samosir. From Medan it is about 4 hours by road.",
+      "prepare": [
+        "A light jacket for cool evenings by the lake",
+        "Cash for ferries and small guesthouses",
+        "Rent a scooter or bicycle to explore Samosir",
+        "Respect customs when visiting Batak villages and tombs"
+      ]
+    },
+    {
+      "id": "ubud",
+      "name": "Ubud",
+      "region": "Bali",
+      "category": "Culture",
+      "budget": 2,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS2ouXxs4gzB9lS-TQXaKI4IPebRzOUB87HLFjR0Uo3FvnFKECfjlMJtQFzmV0tJU3hFroNP3-FJyJpHlI",
+          "altText": "Lush green terraced rice fields in Tegallalang, Ubud surrounded by tall coconut palms"
+        },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQh7qUF94SJ1i1GWChqcZEBpWiE0MuYD9-P4e0VOqHmFa95hrlfAfogX9B_1TJhgg_ITeqJHIhIbrXign8",
+          "altText": "Ornate carved traditional Balinese split stone gateway (Candi Bentar) framed against a blue sky"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTICRuzA8I1HC09SAK2RuofOe6cbXNJrWxfu3sK6fYYntnnqBYZYRBirVYYCyR9pHsE0mYbucOamaPcjzU",
+          "altText": "Balinese female dancer performing Legong in an ornate gold costume and intricate floral crown"
+        }
+      ],
+      "tagline": "Bali's heart of art, dance and rice terraces",
+      "about": "Ubud is a town in the uplands of Bali that has been the island's centre of arts and culture for generations. Painters, woodcarvers and silversmiths work in the surrounding villages, and traditional Legong and Kecak dances are performed every evening. Nearby, the Tegallalang and Jatiluwih rice terraces show the subak irrigation system, recognised by UNESCO. The Sacred Monkey Forest, Ubud Palace and countless temples are all within walking distance. Many visitors also come for yoga, cooking classes and healthy food.",
+      "gettingThere": "Fly to Ngurah Rai International Airport in Denpasar, then drive about 1.5 hours north. Shuttle buses run from the airport and from Kuta.",
+      "prepare": [
+        "A sarong and sash for entering temples (often lent at the gate)",
+        "Keep sunglasses and food out of reach in the Monkey Forest",
+        "Rain gear – afternoon showers are common",
+        "Book evening dance tickets on the day in the town centre"
+      ]
+    },
+    {
+      "id": "toraja",
+      "name": "Tana Toraja",
+      "region": "South Sulawesi",
+      "category": "Culture",
+      "budget": 3,
+      "goodMonths": [
+        6,
+        7,
+        8
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRDk-X7UKYDRxnNVcG4dVt4cppNBq52gZ10yxE--EQSzXFSC9dTU_IdfpZrsgiulMuDzR_vz3V3FcOIECA",
+          "altText": "Traditional Torajan Tongkonan house with a large sweeping saddle-shaped roof set against lush jungle hills"
+        },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTgb3w8C56G20O9k4cq5MI61uGwNfTbh3UBTz2YQ2aNwbOKgM40fqz5R4dDS2c0FC5ijgJaHj9BGcN-584",
+          "altText": "Wooden Tau Tau effigy figures standing in carved niches on a sheer limestone cliff burial site in Toraja"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRDk-X7UKYDRxnNVcG4dVt4cppNBq52gZ10yxE--EQSzXFSC9dTU_IdfpZrsgiulMuDzR_vz3V3FcOIECA",
+          "altText": "Classic Torajan village architecture with ornate wooden carvings and curved rooflines"
+        }
+      ],
+      "tagline": "Highland villages with boat-shaped roofs",
+      "about": "Tana Toraja is a mountainous region of South Sulawesi, home of the Torajan people. Their villages are known for tongkonan, ancestral houses with sweeping boat-shaped roofs. Torajan culture is famous for elaborate funeral ceremonies that can last several days, and for burial sites carved into cliffs and guarded by wooden effigies called tau tau. Between the villages, the landscape is made of rice terraces, bamboo forests and coffee farms. Visitors should go with a local guide to understand and respect the customs.",
+      "gettingThere": "Fly to Makassar, then take an overnight bus (about 8 hours) or a short flight to Toraja Airport near Rantepao.",
+      "prepare": [
+        "Hire a local guide to visit villages and ceremonies respectfully",
+        "Bring a small gift, such as coffee or sugar, if invited to a ceremony",
+        "Wear dark, modest clothing at funerals",
+        "Good walking shoes for hilly village paths"
+      ]
+    },
+    {
+      "id": "lombok",
+      "name": "Lombok",
+      "region": "West Nusa Tenggara",
+      "category": "Beach",
+      "budget": 2,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTFwPyEx0FqHY8T9LSCUQTs4xcoQdoFe205XX4IojzbL7i_xFxyMzJuyf5aDYhxx5FoFHq7PnZpXcIzQ50",
+          "altText": "Aerial view of Mandalika beach in Kuta Lombok showing white sand shoreline and clear coastal bay"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSx05IxSfEHDkgi1AudyIuPXSbUrZ02ZEYcYTECEwVBD0PxS4uXPtqez38CyDF92QPG__xv-Ymd79TdTEs",
+          "altText": "View from Mount Rinjani summit looking across the volcanic caldera above a thick sea of clouds at sunrise"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTSZ-FNL2Ks01qzsHTonwS2QQ5BgqBnTGSerJ8_r9hrH2Ctoj2aijgr1EbZffGkf7lDoicQq1ud1_bollM",
+          "altText": "Traditional Sasak thatched wooden home in Sade Village, Lombok"
+        }
+      ],
+      "tagline": "Quiet beaches and the volcano Rinjani",
+      "about": "Lombok is the island just east of Bali, with quieter beaches and a slower pace. The south coast around Kuta Mandalika has wide bays and popular surf breaks, while the Gili Islands off the north-west coast are known for snorkelling with turtles. Mount Rinjani, the second-highest volcano in Indonesia, has a crater lake that trekkers reach on two- to four-day hikes. The Sasak people keep traditional villages such as Sade, famous for weaving. Waterfalls like Tiu Kelep are hidden in the forests of the north.",
+      "gettingThere": "Fly to Lombok International Airport from Jakarta or Bali, or take the fast boat from Bali to the Gili Islands and Lombok (about 2 hours).",
+      "prepare": [
+        "Book a licensed guide and permit for any Rinjani trek",
+        "Modest clothing outside beach areas – Lombok is mostly Muslim",
+        "Cash for small warungs and boat transfers",
+        "Reef-safe sunscreen and a snorkel for the Gilis"
+      ]
+    },
+    {
+      "id": "ujungkulon",
+      "name": "Ujung Kulon",
+      "region": "Banten",
+      "category": "Nature",
+      "budget": 1,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRpTl4MNAw0embmmkCEV3jgVPI74Rp5BXu8gWKQ3GCvTYPgpBecaZwyMxpxOCnmrCt04xzgZnE72L5OJsw",
+          "altText": "Dense coastal rainforest meeting an untouched sandy shoreline in Ujung Kulon National Park"
+        },
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQmA_eXzrcBI-33Ktyzlr--LLpPTb3mc7rO8o1kuwVwnJvhSY4IFDTkaqZfh7EHxHSXWXRmPkcQV8X8KzE",
+          "altText": "Visitors in wooden canoes paddling along the quiet, green Cigenter River framed by dense jungle"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTT0uyLeLxmp3c3p5qGIn2v7iFG1m8lcT3k1Dc7sHBJt9ViitjyRiwNni8GuYxftKT43pDqHGNlwoIscuc",
+          "altText": "White sand beach and crystal clear shallow water along Peucang Island in Ujung Kulon"
+        }
+      ],
+      "tagline": "Wild rainforest, home of the Javan rhino",
+      "about": "Ujung Kulon National Park covers the south-western tip of Java and the islands around it. It protects the largest remaining lowland rainforest on Java and is the last home of the critically endangered Javan rhinoceros, with fewer than 80 left in the wild. Visitors rarely see the rhinos, but can spot banteng cattle, deer, monkeys and hornbills. Activities include canoeing the Cigenter River, jungle trekking and snorkelling at Peucang Island. The park is a UNESCO World Heritage Site and is still very remote.",
+      "gettingThere": "Drive about 5–6 hours from Jakarta to Sumur or Tamanjaya village, then take a boat into the park. Most visitors book a 3-day trip with a local operator.",
+      "prepare": [
+        "Book with a licensed operator – a park ranger must accompany you",
+        "Insect repellent and long sleeves for the jungle",
+        "Bring enough cash; there are no ATMs in the park",
+        "Expect simple rooms and limited electricity"
+      ]
+    },
+    {
+      "id": "karimunjawa",
+      "name": "Karimun Jawa",
+      "region": "Central Java",
+      "category": "Beach",
+      "budget": 1,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTtF7Ves61K88Cfsiqywdn-H2Ry5uy_5IL5a0S0paDD8t-xJIbGlDT7l8OIsUCdrrDTgTni-bx6z2YO_X0",
+          "altText": "Aerial view of a small tropical islet fringed by white sand and shallow coral reefs in Karimunjawa"
+        },
+        {
+          "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcST1KxvjIGCXBAzjImdApZbdXJgkE47hbQVJkn972lXrlALb08tx4UjE_blxpbYsqbtJy_ojwBwmz0eR6c",
+          "altText": "Visitors swimming in a clear wooden shark pen enclosure with small blacktip reef sharks in Karimunjawa"
+        },
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTtF7Ves61K88Cfsiqywdn-H2Ry5uy_5IL5a0S0paDD8t-xJIbGlDT7l8OIsUCdrrDTgTni-bx6z2YO_X0",
+          "altText": "Shallow turquoise waters and white sandy beach on an uninhabited Karimunjawa island"
+        }
+      ],
+      "tagline": "An island marine park off the north coast of Java",
+      "about": "Karimun Jawa is a group of 27 islands in the Java Sea, about 80 km north of Jepara. Most of the area is a marine national park with calm, clear water, coral gardens and mangrove forests. Day trips by boat visit several small islands for snorkelling, swimming with reef sharks in a protected pen and fresh grilled fish lunches on the beach. The main island has a small, friendly town and a viewpoint at Bukit Joko Tuo. It is a popular, affordable getaway for people from Semarang and Jakarta.",
+      "gettingThere": "Take the ferry from Jepara or Semarang (2 to 5 hours depending on the boat). Ferries can be cancelled in rough weather, so allow an extra day.",
+      "prepare": [
+        "Check the ferry schedule – it doesn't run every day",
+        "Plan an extra day in case ferries are cancelled by bad weather",
+        "Cash in rupiah; card payments are rare",
+        "Snorkel gear can be rented, but a mask that fits is worth bringing"
+      ]
+    },
+    {
+      "id": "kawahijen",
+      "name": "Kawah Ijen",
+      "region": "East Java",
+      "category": "Mountain",
+      "budget": 1,
+      "goodMonths": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "photos": [
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSSsis9Dcpw53w71ocnUA9cQsEcLn8uvSK_LIXbx8rxTuLaherntA5M-cmeBzBE4VTcv1ZXqR_pJUmWj8c",
+          "altText": "Bright turquoise acidic crater lake of Kawah Ijen with volcanic steam rising along the crater wall"
+        },
+        {
+          "url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTy-lSlFCbNO4XuIP9AzLwRSxijGP4I8eFp3bJ8UrFgK6QqWcwHR1iwj9ffnfT_adEg9CNvwKGrvBmo7UY",
+          "altText": "Local sulfur miner carrying heavy woven baskets filled with raw yellow sulfur up the rocky crater trail"
+        },
+        {
+          "url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcSSsis9Dcpw53w71ocnUA9cQsEcLn8uvSK_LIXbx8rxTuLaherntA5M-cmeBzBE4VTcv1ZXqR_pJUmWj8c",
+          "altText": "Panoramic view of the acidic crater lake at Kawah Ijen illuminated by soft sunlight"
+        }
+      ],
+      "tagline": "A turquoise acid lake and blue fire",
+      "about": "Kawah Ijen is a volcano in the Ijen Plateau with a bright turquoise crater lake, the largest acidic lake in the world. At night, sulphuric gases burn as electric-blue flames, a rare sight that draws hikers who start climbing around 1 a.m. Local miners still carry heavy baskets of yellow sulphur up from the crater by hand. The hike to the rim takes about 1.5 to 2 hours on a steep, sandy path. At sunrise the mist lifts to show the lake and the surrounding volcanoes.",
+      "gettingThere": "Fly or take the train to Banyuwangi, then drive about 1.5 hours to the Paltuding trailhead. Many visitors combine it with a trip to Mount Bromo.",
+      "prepare": [
+        "A gas mask – the sulphur fumes are strong (often rented at the trailhead)",
+        "A warm jacket and a head torch for the night hike",
+        "Good hiking shoes with grip for the steep path",
+        "Check that the crater is open; it closes when gas levels are high",
+        "People with asthma or heart conditions should not go down into the crater"
+      ]
+    }
+  ]
+}
